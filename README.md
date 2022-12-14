@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Value Your Time](https://valueyourtime.eu).
-- 🌱 I’m currently learning Go.
-- 👯 I’m looking to collaborate on awesome open-source projects. (Preferably something in Go)
-- 📫 Find contact details on [my website](https://koenvanmarrewijk.com/contact).
-- 😄 Pronouns: he/him/his
+- 🔭 I’m currently working on cool stuff at [Almanak](https://almanak.co).
+- 🌱 I’m currently learning Go & upping my game in Python.
+- 👯 I’m looking to collaborate on awesome open-source projects, feel free to message me on Twitter!
